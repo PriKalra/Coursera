@@ -10,3 +10,18 @@ Then, skip down and read parts Part II: Wrangle, which covers chapters 9-12 (you
 https://r4ds.had.co.nz/wrangle-intro.html  
 
 These readings supplement the videos. Together, they provide a good foundation for getting started with the tidyverse.
+
+For Bar graph: https://www.r-graph-gallery.com/218-basic-barplots-with-ggplot2.html
+For bar graphs: http://www.cookbook-r.com/Graphs/Bar_and_line_graphs_(ggplot2)/
+
+For time series line plots:
+https://r-graphics.org/recipe-quick-line
+
+https://r-graphics.org/recipe-line-graph-basic-line
+
+https://r-graphics.org/recipe-line-graph-multiple-line
+
+https://r-graphics.org/recipe-line-graph-line-appearance
+
+HeatMaps R:
+https://www.r-graph-gallery.com/79-levelplot-with-ggplot2.html
