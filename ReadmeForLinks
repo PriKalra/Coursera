@@ -30,5 +30,10 @@ Annotations and text on plots:
 https://ggplot2-book.org/annotations.html
 https://ggplot2-book.org/mastery.html
 
+Plotting themes: 
 ggthemes contains pre-baked themes that you can try and modify
 #####allyourfigurearebelongtous for pictures of themes
+
+https://ggplot2-book.org/polishing.html
+https://ggplot2.tidyverse.org/reference/index.html#section-themes
+https://ggplot2.tidyverse.org/reference/ggtheme.html
