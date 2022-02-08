@@ -37,3 +37,10 @@ ggthemes contains pre-baked themes that you can try and modify
 https://ggplot2-book.org/polishing.html
 https://ggplot2.tidyverse.org/reference/index.html#section-themes
 https://ggplot2.tidyverse.org/reference/ggtheme.html
+
+In order to make correlation and bar plits: GGAlly etc. 
+Adding best fit regression lines: geomsmooth("lm") etc. https://r-graphics.org/recipe-scatter-fitlines
+Tidyverse: geomsmooth and statsmooth are allies https://ggplot2.tidyverse.org/reference/geom_smooth.html
+Scatter: ggpairs () from ggally : https://rkabacoff.github.io/datavis/Other.html#scatterplot-matrix
+Correlation plots: https://rkabacoff.github.io/datavis/Models.html#Corrplot -> find correlation pairs
+Can use dot plots and lollipop plots for a hybrid of scatter and barplots for data: https://www.r-graph-gallery.com/300-basic-lollipop-plot.html or https://r-graphics.org/recipe-bar-graph-dot-plot
