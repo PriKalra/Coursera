@@ -44,3 +44,11 @@ Tidyverse: geomsmooth and statsmooth are allies https://ggplot2.tidyverse.org/re
 Scatter: ggpairs () from ggally : https://rkabacoff.github.io/datavis/Other.html#scatterplot-matrix
 Correlation plots: https://rkabacoff.github.io/datavis/Models.html#Corrplot -> find correlation pairs
 Can use dot plots and lollipop plots for a hybrid of scatter and barplots for data: https://www.r-graph-gallery.com/300-basic-lollipop-plot.html or https://r-graphics.org/recipe-bar-graph-dot-plot
+
+EXTENSIONS OF SCATTER PLOTS:
+
+Shade under the line plot: https://r-graphics.org/recipe-line-graph-area
+Shade area under the line plot and Stack it: Use geom_area() andmap a factor to fill  -> https://r-graphics.org/recipe-line-graph-stacked-area
+
+Dumbell charts to display change between two time points for several groups or observations. The geom_dumbbell function from the ggalt package is used. :https://rkabacoff.github.io/datavis/Time.html#dummbbell-charts
+
