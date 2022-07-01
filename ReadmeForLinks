@@ -52,3 +52,19 @@ Shade area under the line plot and Stack it: Use geom_area() andmap a factor to 
 
 Dumbell charts to display change between two time points for several groups or observations. The geom_dumbbell function from the ggalt package is used. :https://rkabacoff.github.io/datavis/Time.html#dummbbell-charts
 
+
+FLOWS and CIRCLES:
+Representations fo connections and frequency: 
+Pie chart is disfavoured by Data science community due to humans being very bad at reading angles. 
+
+Alluvial plot and Circle plots are commonly used:
+
+https://github.com/corybrunson/ggalluvial
+
+https://r-graph-gallery.com/305-basic-circle-packing-with-one-level.html - for packed circle figures. REALLY IMPORTANT TO DO IT YOURSELF- otherwise hard to understand. 
+
+Pie chart alternatives
+https://r-graph-gallery.com/131-pie-plot-with-r.html
+https://www.data-to-viz.com/caveat/pie.html
+
+
